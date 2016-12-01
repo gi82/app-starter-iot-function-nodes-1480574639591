@@ -17,7 +17,8 @@
         "node-red-contrib-ibm-wiotp-device-ops":"0.x",
         "node-red-contrib-iot-virtual-device":"0.x",
         "node-red-contrib-ibmpush":"0.x",
-        "node-red-contrib-bluemix-hdfs":"0.x"
+        "node-red-contrib-bluemix-hdfs":"0.x",
+        "crc":"3.x"
     },
     "engines": {
         "node": "0.12.x"
